@@ -1,0 +1,6 @@
+ActorPacks/*
+LanguagePacks/*
+ActorModules/*
+PackMappingInfo.json
+PackMappings.json
+Runtime/Loaders/TestMatching.cs
